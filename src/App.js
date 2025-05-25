@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Hero from './components/Hero';
-
+import AboutMe from './components/AboutMe';
 
 function App() {
   return (
@@ -23,6 +23,7 @@ function App() {
     // </div>
     <div>
       <Hero/>
+      <AboutMe/>
     </div>
   );
 }
