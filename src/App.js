@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
 import Skills from './components/skillsDir/skills';
 import Portfolio from './components/projectsDir/portfolio';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
       <AboutMe/>
       <Skills/>
       <Portfolio/>
+      <Footer/>
     </div>
   );
 }
