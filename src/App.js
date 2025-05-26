@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
+import Skills from './components/skillsDir/skills';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
     <div>
       <Hero/>
       <AboutMe/>
+      <Skills/>
     </div>
   );
 }
