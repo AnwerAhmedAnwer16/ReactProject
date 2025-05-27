@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Project({ title }) {
   return (
     <div className="col-md-4 mb-4 ">

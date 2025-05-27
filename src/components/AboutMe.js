@@ -1,4 +1,3 @@
-import React from "react";
 
 
 function AboutMe(){
@@ -6,11 +5,10 @@ function AboutMe(){
     <div className="container my-5 text-center">
       <h2>About Me</h2>
       <p className="mt-3">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+       The sky was an endless canvas of swirling oranges and pinks as the sun dipped below the horizon. A lone bicycle leaned against a weathered wooden fence, its rusty chain whispering secrets of past adventures. Nearby, a stray cat stretched lazily on the cobblestones, its tail flicking with quiet amusement. The scent of freshly baked bread drifted from an open window, mingling with the crisp autumn air. Somewhere in the distance, a radio played a forgotten melody, the notes dancing between the trees like fireflies at dusk. It was one of those moments that felt suspended in time—too perfect to last, yet too beautiful to forget.
               </p>
       <a href="/React Lecture 1.pdf" download className="btn btn-outline-dark mt-3">
-        <i className="fas fa-download me-2"></i>Download CV
+        Download CV
       </a>
     </div>
   );
